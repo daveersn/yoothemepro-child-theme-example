@@ -14,7 +14,6 @@ return [
             }
 
             $node->props['current_date'] = (new \Datetime())->format($format);
-
             return true;
 
         },
