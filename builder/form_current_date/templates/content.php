@@ -1,0 +1,1 @@
+<input type="text" value="<?php date('Y-m-d') ?>" placeholder="<?php date('Y-m-d') ?>"/>
